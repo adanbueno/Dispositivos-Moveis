@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ActivityToggleButton">Activity ToggleButton</string>
+    <string name="ActivityEditText">Activity EditText</string>
+    <string name="ActivityAutocomplete">Activity Autocomplete</string>
+    <string name="ActivitySpinners">Activity Spinners</string>
+    <string name="ActivityRadioButtons">Activity RadioButtons</string>
+    <string name="ActivityLongPress">Activity Long press</string>
+    <string name="ActivityPopupMenu">Activity popup menu</string>
+
+</resources>

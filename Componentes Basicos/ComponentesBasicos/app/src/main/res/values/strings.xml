@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Componentes Basicos</string>
+    <string name="btn_submission">Enviar</string>
+    <string name="togglebutton_on">Ligado</string>
+    <string name="togglebutton_off">Desligado</string>
+    <string name="togglebutton_online">Online</string>
+    <string name="togglebutton_offline">Offline</string>
+    <string name="main">Navegue pelo menu\n superior direito ou\n o inferior</string>
+    <string name="placeholder">Digite...</string>
+    <string name="btn_back">Voltar</string>
+    <string name="placeholder_autocomplete">Complete console games</string>
+    <string name="textview_sent">compilado enviado</string>
+    <string name="spinners">Desafio spinners</string>
+    <string name="autocomplete">Desafio autocomplete</string>
+    <string name="textView_question">O que achou do tutorial?</string>
+    <string name="text_excellent">Excelente</string>
+    <string name="text_satisfactory">Satisfatorio</string>
+    <string name="text_bellowAverage">Abaixo da média</string>
+    <string name="btn_clear">Limpar</string>
+    <string name="btn_menuPopup">Menu popup</string>
+    <string name="textview_longpress">Pressione por\n4 segundos</string>
+</resources>

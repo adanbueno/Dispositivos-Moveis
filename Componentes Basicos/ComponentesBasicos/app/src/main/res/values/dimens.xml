@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_submission" type="dimen">100px</item>
+    <dimen name="magin_pattern">5px</dimen>
+    <dimen name="padding_start_input">10px</dimen>
+    <dimen name="margin_side">20px</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_auto_btn">50px</dimen>
+</resources>

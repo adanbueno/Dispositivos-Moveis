@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Activity_Toggle_button"
+        android:title="@string/ActivityToggleButton"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Activity_EditText"
+        android:title="@string/ActivityEditText"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Activity_Autocomplete"
+        android:title="@string/ActivityAutocomplete"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Activity_Spinners"
+        android:title="@string/ActivitySpinners"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Activity_RadioButtons"
+        android:title="@string/ActivityRadioButtons"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Activity_LongPress"
+        android:title="@string/ActivityLongPress"
+        app:showAsAction="never" />
+
+</menu>

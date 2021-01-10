@@ -1,0 +1,18 @@
+{
+  "name": "NavegacaoTelas_Backend",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6",
+    "mongoose-sequence": "^5.2.2",
+    "uuidv4": "^6.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
