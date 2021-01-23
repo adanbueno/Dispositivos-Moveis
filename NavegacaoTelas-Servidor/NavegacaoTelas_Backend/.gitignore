@@ -1,4 +1,0 @@
-node_modules/
-*.lock
-
-src/config/userMongodb.js
