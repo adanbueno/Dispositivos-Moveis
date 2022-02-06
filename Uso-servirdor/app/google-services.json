@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31387781189",
+    "project_id": "trabalho2mobile",
+    "storage_bucket": "trabalho2mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31387781189:android:0f8933bde1d7adecfbbb2c",
+        "android_client_info": {
+          "package_name": "br.ufc.quixada.dadm.entreg02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31387781189-d83bc6m1h98dm182nlu7mioukb59mcjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGt8a5GrIOnqkOc9V-L_C2rtAZiodWkmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31387781189-d83bc6m1h98dm182nlu7mioukb59mcjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "backend-meu-troco",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "sucrase-node src/server.js",
+    "dev:debug": "nodemon --inspect",
+    "lint": "eslint src --ext js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.6",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-sequence": "^5.2.2",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.1.2",
+    "sucrase": "^3.15.0"
+  }
+}

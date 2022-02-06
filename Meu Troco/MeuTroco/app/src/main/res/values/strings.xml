@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Meu Troco</string>
+
+    <string name="name">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+
+    <string name="login">Entrar</string>
+    <string name="registerUser">Cadastrar</string>
+
+    <string name="forgot_password">Esqueci minha senha :(</string>
+
+    <string name="txt_register">Ainda não possui cadastro?</string>
+    <string name="register">Cadastrar-se</string>
+
+    <string name="txt_login">Já possui cadastro?</string>
+    <string name="logon">Login</string>
+
+    <string name="search_store">Ver localização</string>
+
+    <string name="textView_register">Cadastro</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="balance_placeHolder">Saldo da conta</string>
+
+    <string name="functionalities">Funcionalidades</string>
+    <string name="payment">Pagamentos</string>
+    <string name="transfer">Transferência</string>
+    <string name="extract">Extrato</string>
+
+    <string name="reward">Recompensas</string>
+
+
+    <string name="myRegister">Meu cadastro</string>
+    <string name="shareFriend">Compartilhar com amigo</string>
+    <string name="rates">Tarifas</string>
+    <string name="support">Suporte</string>
+    <string name="aboutApp">Sobre o app</string>
+    <string name="logout">Encerrar sessão</string>
+    <string name="btnEditInfo">Editar info</string>
+    <string name="change_password">Mudar senha</string>
+    <string name="edit_infor">Editar informações</string>
+
+    <string name="save_infor">Salvar</string>
+
+    <string name="oldPassword">Senha antiga</string>
+    <string name="newPassword">Nova senha</string>
+    <string name="cofirmPassword">Confirme nova senha</string>
+
+    <string name="placeholder_pay">Pagar</string>
+    <string name="placeholder_receive">Receber</string>
+    <string name="placeholder_choose">Escolher opção</string>
+    <string name="placeholder_transaction">Ultimas transações</string>
+
+    <string name="placeholder_transfer">Transações realizadas</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="placeholder_receiverTransfer">Quanto você quer receber?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

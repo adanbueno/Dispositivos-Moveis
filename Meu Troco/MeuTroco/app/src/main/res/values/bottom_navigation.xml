@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="offers">ofertas</string>
+    <string name="wallet">carteira</string>
+    <string name="settings">configurações</string>
+    <string name="profile">perfil</string>
+</resources>
